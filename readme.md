@@ -1,6 +1,6 @@
 # Home Server Deployment & Troubleshooting Guide
 
-**Domain:** aryangoyal.space\
+**Domain:** yourdomain.com\
 **Server:** Ubuntu + Cloudflare Tunnel + SSH + MongoDB + K3s
 
 ------------------------------------------------------------------------
